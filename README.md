@@ -55,7 +55,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
 
 ## Current Focus
 
-- Mengembangkan project berbasis **Flutter** dan **React**, termasuk project terbaru **WMfilms React**
+- Mengembangkan project berbasis **Flutter** dan **React**, termasuk project terbaru **WMfilms Web**
 - Memperdalam **Firebase**, **UI/UX**, **clean code**, serta **network engineering** menggunakan **Cisco** dan **MikroTik**
 - Terbuka untuk kolaborasi pada project aplikasi mobile, website, dan jaringan komputer
 - Topik yang saya kuasai: **Flutter, Dart, React, Firebase, Frontend, Cisco, MikroTik, dan Computer Network**
@@ -115,12 +115,12 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">WMfilms React</h3>
+      <h3 align="center">WMfilms Web</h3>
       <p align="center">
-        Website katalog film berbasis React yang menampilkan informasi film dengan tampilan modern, responsif, dan mudah digunakan.
+        Website landing page untuk layanan fotografi WMfilms yang menampilkan layanan sport, wedding, event, pricelist, portfolio preview, serta form booking online.
       </p>
       <p align="center">
-        <b>React • TypeScript • Vite • CSS</b>
+        <b>Next.js • React • TypeScript • Tailwind CSS</b>
       </p>
       <p align="center">
         <a href="https://github.com/Wildanmalaki/WMfilms_react">
