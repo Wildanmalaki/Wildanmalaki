@@ -22,9 +22,9 @@ Indonesia
 
 ## About Me
 
-Saya **Wildan Malaki**, seorang mahasiswa Informatika yang tertarik pada pengembangan aplikasi mobile, website, dan jaringan komputer.
+I am **Wildan Malaki**, an Informatics student with a strong interest in mobile application development, web development, and computer networking.
 
-Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **TypeScript**, **Firebase**, serta memahami dasar-dasar **network engineering**, termasuk konfigurasi jaringan, troubleshooting, dan penggunaan perangkat **Cisco** serta **MikroTik**.
+I have experience building projects using **Flutter**, **React**, **TypeScript**, and **Firebase**. I also understand the fundamentals of **network engineering**, including network configuration, troubleshooting, and working with **Cisco** and **MikroTik** devices.
 
 <br>
 
@@ -55,10 +55,10 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
 
 ## Current Focus
 
-- Mengembangkan project berbasis **Flutter** dan **React**, termasuk project terbaru **WMfilms Web**
-- Memperdalam **Firebase**, **UI/UX**, **clean code**, serta **network engineering** menggunakan **Cisco** dan **MikroTik**
-- Terbuka untuk kolaborasi pada project aplikasi mobile, website, dan jaringan komputer
-- Topik yang saya kuasai: **Flutter, Dart, React, Firebase, Frontend, Cisco, MikroTik, dan Computer Network**
+- Developing projects using **Flutter** and **React**, including my latest project **WMfilms Web**
+- Improving my skills in **Firebase**, **UI/UX**, **clean code**, and **network engineering** using **Cisco** and **MikroTik**
+- Open to collaboration on mobile apps, websites, and computer networking projects
+- Main topics I work with: **Flutter, Dart, React, Firebase, Frontend Development, Cisco, MikroTik, and Computer Networking**
 
 ---
 
@@ -117,7 +117,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
     <td width="33%">
       <h3 align="center">WMfilms Web</h3>
       <p align="center">
-        Website landing page untuk layanan fotografi WMfilms yang menampilkan layanan sport, wedding, event, pricelist, portfolio preview, serta form booking online.
+        A photography service landing page for WMfilms, featuring sport, wedding, and event photography services, pricelist, portfolio preview, and an online booking form.
       </p>
       <p align="center">
         <b>Next.js • React • TypeScript • Tailwind CSS</b>
@@ -131,7 +131,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
     <td width="33%">
       <h3 align="center">TECHINSIGHT UHAMKA</h3>
       <p align="center">
-        Majalah digital berbasis website untuk publikasi artikel, opini, dan informasi seputar teknologi di lingkungan Teknik Informatika UHAMKA.
+        A digital magazine website for publishing articles, opinions, and technology-related information within the Informatics Engineering environment at UHAMKA.
       </p>
       <p align="center">
         <b>React • TypeScript • Vite • Firebase</b>
@@ -145,7 +145,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
     <td width="33%">
       <h3 align="center">MyField Apps</h3>
       <p align="center">
-        Aplikasi booking lapangan berbasis Flutter dengan fitur login, daftar lapangan, booking, pembayaran, review, event komunitas, profil pengguna, dan notifikasi.
+        A Flutter-based sports field booking application with login, field listings, booking, payment, reviews, community events, user profile, and notifications.
       </p>
       <p align="center">
         <b>Flutter • Dart • Firebase • Firestore</b>
@@ -161,7 +161,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
     <td width="33%">
       <h3 align="center">Presensia</h3>
       <p align="center">
-        Aplikasi presensi berbasis Flutter yang dirancang untuk membantu proses pencatatan kehadiran secara lebih praktis dan terstruktur.
+        A Flutter-based attendance application designed to help manage attendance records in a more practical and structured way.
       </p>
       <p align="center">
         <b>Flutter • Dart • Mobile App</b>
@@ -175,7 +175,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
     <td colspan="2">
       <h3 align="center">More Projects</h3>
       <p align="center">
-        Kumpulan project pembelajaran, aplikasi mobile, website, dan jaringan komputer.
+        A collection of learning projects, mobile applications, websites, and computer networking experiments.
       </p>
       <p align="center">
         <b>Learning • Development • Improvement</b>
