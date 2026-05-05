@@ -55,7 +55,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
 
 ## Current Focus
 
-- Mengembangkan project berbasis **Flutter** dan **React**
+- Mengembangkan project berbasis **Flutter** dan **React**, termasuk project terbaru **WMfilms React**
 - Memperdalam **Firebase**, **UI/UX**, **clean code**, serta **network engineering** menggunakan **Cisco** dan **MikroTik**
 - Terbuka untuk kolaborasi pada project aplikasi mobile, website, dan jaringan komputer
 - Topik yang saya kuasai: **Flutter, Dart, React, Firebase, Frontend, Cisco, MikroTik, dan Computer Network**
@@ -115,6 +115,20 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
 <table>
   <tr>
     <td width="33%">
+      <h3 align="center">WMfilms React</h3>
+      <p align="center">
+        Website katalog film berbasis React yang menampilkan informasi film dengan tampilan modern, responsif, dan mudah digunakan.
+      </p>
+      <p align="center">
+        <b>React • TypeScript • Vite • CSS</b>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Wildanmalaki/WMfilms_react">
+          <img src="https://img.shields.io/badge/View%20Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="33%">
       <h3 align="center">TECHINSIGHT UHAMKA</h3>
       <p align="center">
         Majalah digital berbasis website untuk publikasi artikel, opini, dan informasi seputar teknologi di lingkungan Teknik Informatika UHAMKA.
@@ -142,6 +156,8 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <h3 align="center">Presensia</h3>
       <p align="center">
@@ -156,9 +172,7 @@ Saya memiliki pengalaman membuat project berbasis **Flutter**, **React**, **Type
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="3">
+    <td colspan="2">
       <h3 align="center">More Projects</h3>
       <p align="center">
         Kumpulan project pembelajaran, aplikasi mobile, website, dan jaringan komputer.
